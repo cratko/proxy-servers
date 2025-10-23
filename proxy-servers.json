@@ -1,0 +1,6 @@
+{
+  "servers": {
+    {"remote_addr": "127.0.0.1:8080", name: "local-node"}
+    {"remote_addr": "195.133.52.210:8080", name: "node-#1-nv"},
+  }
+}
